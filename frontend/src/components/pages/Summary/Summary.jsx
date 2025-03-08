@@ -29,7 +29,9 @@ const Summary = ({ userName }) => {
     } finally {
       setLoading(false);
     }
-  };
+  };   
+
+  
 
   const handleFileUpload = (event) => {
     const selectedFiles = Array.from(event.target.files);
