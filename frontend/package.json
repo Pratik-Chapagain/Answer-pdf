@@ -14,7 +14,6 @@
     "prepare": "husky install"
   },
 
-
   "keywords": ["notes", "productivity", "react", "vite", "modern"],
   "author": "Your Name <your.email@example.com>",
   "license": "MIT",
